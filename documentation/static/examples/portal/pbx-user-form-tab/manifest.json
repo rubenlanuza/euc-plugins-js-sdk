@@ -23,7 +23,7 @@
       "entityId": "user-details",
       "context": ["pbx.users"],
       "name": "More user details",
-      "contentUrl": "https://omnichannel.meetip.net/app/accounts/1/dashboard"
+      "contentUrl": "https://panel.smsgo.es/Service/"
     }
   ]
 }
