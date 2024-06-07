@@ -23,7 +23,7 @@
       "entityId": "user-details",
       "context": ["pbx.users"],
       "name": "More user details",
-      "contentUrl": "./tab.html"
+      "contentUrl": "https://omnichannel.meetip.net/app/accounts/1/dashboard"
     }
   ]
 }
